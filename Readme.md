@@ -3,7 +3,9 @@
 
 # Hello, folks! <img src="https://github.com/vandan2397/Profile/blob/main/wave.gif" width="30px">
 
-I am vandan pandya, a passionate data scientist and a Graduate student at University of Houston. I am from Houston. My passion lies in solving problems using data and to extract meaningful insights out of it. You can find me on  
+I am vandan pandya, a passionate data scientist and a Graduate student at University of Houston. I am from Houston. My passion lies in solving problems using data and to extract meaningful insights out of it. 
+
+You can find me on  
 
 <a href="https://www.instagram.com/vandan_2397/">
 <img align="left" alt="Vandan's Instagram" width="22px" src="https://github.com/vandan2397/Profile/blob/main/insta.jpg" />
@@ -17,6 +19,7 @@ I am vandan pandya, a passionate data scientist and a Graduate student at Univer
 <a href="https://twitter.com/Vandan2397">
 <img align="left" alt="Vandan's Linkedin" width="22px" src="https://github.com/vandan2397/Profile/blob/main/twitter.png" />
 </a>
+
 
 ## Tools and technologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
