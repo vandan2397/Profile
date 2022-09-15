@@ -19,7 +19,7 @@ You can find me on
 <a href="https://twitter.com/Vandan2397">
 <img align="left" alt="Vandan's Linkedin" width="22px" src="https://github.com/vandan2397/Profile/blob/main/twitter.png" />
 </a>
-
+<br>
 
 ## Tools and technologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
