@@ -48,6 +48,6 @@ You can find me on
 </a>
 
 
-<a href="https://github.com/vandan2397/Natural-Language-Processing/Sentimental analysis Project/">
+<a href="https://github.com/vandan2397/Natural-Language-Processing/tree/main/Sentimental%20analysis%20Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandan2397&repo=Natural-Language-Processing-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
