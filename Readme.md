@@ -25,4 +25,4 @@ You can find me on
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Editor-Jupyter?style=flat&logo=jupyter&logoColor=white&color=yellow)
