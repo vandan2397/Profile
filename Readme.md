@@ -23,6 +23,6 @@ You can find me on
 
 ## Tools and technologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Editor-Jupyter-Notebook-informational?style=flat&logo=jupyter-notebook&logoColor=white&color=yellow)
