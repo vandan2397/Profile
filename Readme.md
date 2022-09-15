@@ -30,12 +30,9 @@ You can find me on
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=yellow)
-
 <br>
 
 ## Github Status
-
-
 
 <a href="https://github.com/vandan2397/Profile/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandan2397&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -43,6 +40,6 @@ You can find me on
 <a href="https://github.com/vandan2397/Profile/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vandan2397&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vandan's GitHub Stats" />
 </a>
-
 <br>
    
+## Leetcode Status
