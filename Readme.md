@@ -30,5 +30,5 @@ You can find me on
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-Microsoft Office-informational?style=flat&logo=microsoft-power-office&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Microsoft Office-informational?style=flat&logo=microsoft-office&logoColor=white&color=yellow)
 
