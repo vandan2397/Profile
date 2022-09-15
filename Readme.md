@@ -48,6 +48,6 @@ You can find me on
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/vandan2397/Natural-Language-Processing/Sentimental analysis Project/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandan2397&repo=Natural-Language-Processing/Sentimental analysis Project/-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
