@@ -31,6 +31,7 @@ You can find me on
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=yellow)
 
+<br>
 
 ## Github Status
 
@@ -43,4 +44,5 @@ You can find me on
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vandan2397&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vandan's GitHub Stats" />
 </a>
 
+<br>
    
